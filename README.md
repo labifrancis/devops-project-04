@@ -1,5 +1,5 @@
 # DevOps Project 04
-In this project, I Docker Compose to run multiple Docker containers
+In this project, I used Docker Compose to run multiple Docker containers
 
 ### Technologies used:
 Docker, Node.js, MongoDB, MongoExpress
